@@ -2,5 +2,6 @@
 
 ## Authors
 
+*Some strange author here 
 *Chris Bayliss
 *Shah
