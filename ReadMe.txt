@@ -2,7 +2,5 @@
 
 ## Authors
 
-*Shah 
 *Chris Bayliss
-
-
+*Shah
