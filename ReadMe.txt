@@ -1,1 +1,8 @@
-climate analysis tools
+#Climate analysis tools
+
+## Authors
+
+*Shah 
+*Chris Bayliss
+
+
